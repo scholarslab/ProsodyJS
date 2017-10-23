@@ -30,3 +30,5 @@ gulp.task('watch', function() {
 });
 
 gulp.task('default', ['stylus', 'watch']);
+
+gulp.task('build', ['stylus', 'lint']);
