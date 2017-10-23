@@ -13,7 +13,7 @@ gulp.task('stylus', function() {
 });
 
 gulp.task('lint', function() {
-	return gulp.src('./js/handlers.js')
+	return gulp.src('./js/prosody.js')
 	.pipe(jshint(
         {
             'eqeqeq': true,
