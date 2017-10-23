@@ -124,6 +124,7 @@ var getLineFeatureState = function(lineNumber, feature) {
         return false;
     }
 };
+
 function checkrhyme(scheme, answer) {
     if (scheme === answer) {
         $('#rhymecheck').addClass('right');
