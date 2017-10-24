@@ -6,3 +6,8 @@ Originally part of [For Better For
 Verse](http://prosody.lib.virginia.edu/), developed by Herbert Tucker
 (Professor of English, University of Virginia) and the [Scholars'
 Lab](http://scholarslab.org)
+
+### Dependencies
+
+- npm: gulp, gulp-stylus, autoprefixer-stylus
+
